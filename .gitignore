@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Database
+db.sqlite3
+
+# Django migrations
+*/migrations/*.pyc
+*/migrations/__pycache__/
+
+# VS Code settings
+.vscode/
