@@ -1,2 +1,2 @@
 # mail
-A basic mail applicationnusing HTML, CSS, JS and Django
+A todo app using HTML, CSS for frontend and Django for backend
